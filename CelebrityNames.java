@@ -9,7 +9,7 @@ import java.util.*;
  */
 public class CelebrityNames
 {
-    public static final String FILE_NAME = "Data.txt";
+    public static final String FILE_NAME = "CelebrityData.txt";
     public static void main(String args[]) throws IOException
     { 
         Scanner sf = new Scanner(new File(FILE_NAME));
